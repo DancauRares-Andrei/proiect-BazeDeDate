@@ -1,0 +1,1 @@
+În cadrul acestui proiect am implementat o bază de date SQL ce stochează informații despre produsele și vânzările unui magazin de componente electronice. De asemenea, am realizat o implementare minimală a unei interfețe în Python folosind Tkinter.
